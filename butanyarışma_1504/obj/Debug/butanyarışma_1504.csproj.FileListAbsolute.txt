@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\butanyarışma_1504\butanyarışma_1504\bin\Debug\butanyarışma_1504.exe.config
+C:\Users\User\source\repos\butanyarışma_1504\butanyarışma_1504\bin\Debug\butanyarışma_1504.exe
+C:\Users\User\source\repos\butanyarışma_1504\butanyarışma_1504\bin\Debug\butanyarışma_1504.pdb
+C:\Users\User\source\repos\butanyarışma_1504\butanyarışma_1504\obj\Debug\butanyarışma_1504.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\butanyarışma_1504\butanyarışma_1504\obj\Debug\butanyarışma_1504.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\butanyarışma_1504\butanyarışma_1504\obj\Debug\butanyarışma_1504.Form1.resources
+C:\Users\User\source\repos\butanyarışma_1504\butanyarışma_1504\obj\Debug\butanyarışma_1504.Properties.Resources.resources
+C:\Users\User\source\repos\butanyarışma_1504\butanyarışma_1504\obj\Debug\butanyarışma_1504.csproj.GenerateResource.cache
+C:\Users\User\source\repos\butanyarışma_1504\butanyarışma_1504\obj\Debug\butanyarışma_1504.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\butanyarışma_1504\butanyarışma_1504\obj\Debug\butanyarışma_1504.exe
+C:\Users\User\source\repos\butanyarışma_1504\butanyarışma_1504\obj\Debug\butanyarışma_1504.pdb
